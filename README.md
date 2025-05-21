@@ -1,1 +1,2 @@
-# README.md will be updated tmrw, I am a lazy bitch.
+# Python Unit Calculator
+Open source. Enjoy, this is a project of mine. 
