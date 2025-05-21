@@ -1,3 +1,2 @@
 # Python Unit Calculator
-Open source. Enjoy, this is a project of mine. 
-Ugh.
+Python Unit Calculator, my first project.
